@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shriyansh Kr. Lohia</h1>
 <h3 align="center">A passionate Mern stack developer with interest in Devops too.</h3>
-- 🔭 I’m currently working on [aproject for company Cloud Ingenious and handleing end to edn development on freelance basis.](cloudingenious.com)
+
 - 🌱 I’m currently learning **to be pro in Mern stack and in side some of the devops works too I mean you are not a full stack developer if you can't deploy your sites properly.***
+  
 - 💬 Ask me about **MERN Stack, Version Control System or JavaScript.**
+  
 - 📫 How to reach me **shriyanshlohia0@gmail.com**
+  
 - 👨‍💻 All of my projects are available at **https://github.com/whoshriyansh**
+  
 - ⚡ Fun fact **I want to become Good in programming but still want to know why I forgot things so quickly....I think I need more and more practise**
 
 <div> <a href="https://twitter.com/whoshriyansh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
