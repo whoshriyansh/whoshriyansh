@@ -1,28 +1,46 @@
-<h1 align="center">Hi 👋, I'm Shriyansh Kr. Lohia</h1>
-<h3 align="center">A passionate Mern stack developer with interest in Devops too.</h3>
+<h1 align="left">Hi 👋, I'm Shriyansh Kr. Lohia</h1>
+<h3 align="left">Full-Stack Developer (MERN + DevOps) | Building Scalable Web Applications</h3>
 
-- 🌱 I’m currently learning **to be pro in Mern stack and in side some of the devops works too I mean you are not a full stack developer if you can't deploy your sites properly.***
-  
-- 💬 Ask me about **MERN Stack, Version Control System or JavaScript.**
-  
-- 📫 How to reach me **shriyanshlohia0@gmail.com**
-  
-- 👨‍💻 All of my projects are available at **https://github.com/whoshriyansh**
-  
-- ⚡ Fun fact **I want to become Good in programming but still want to know why I forgot things so quickly....I think I need more and more practise**
+- 2+ years of hands-on experience with the **MERN Stack** — building, optimizing, and scaling full-stack applications for performance and reliability.
+
+- I also have a keen interest in DevOps. Right now, I can deploy applications using basic, scalable methods.
+
+- Strong foundation in **JavaScript**, **REST APIs**, **MongoDB schema design**, and **frontend architecture** with **React** and **NextJS**.
+
+- Git, GitHub, and **VCS best practices** are second nature. I write clean, maintainable code that scales, and my last manager told me to commit every time I take a breath - ummmm **Not, quite literally but yes** a good practise.
+
+- Reach me at: **shriyanshlohia0@gmail.com**
+
+- Explore my work: **[github.com/whoshriyansh](https://github.com/whoshriyansh)**
 
 <div> <a href="https://twitter.com/whoshriyansh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  
 <a href="https://www.linkedin.com/in/whoshriyansh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/whoshriyansh" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/whoshriyansh" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 <a href = "mailto:shriyanshlohia0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
+<h3 align="left">Languages & Expertise</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/><br/>
+      <strong>JavaScript</strong><br/>
+      <span>Advanced</span>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/><br/>
+      <strong>Java</strong><br/>
+      <span>Intermediate</span>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><br/>
+      <strong>Python</strong><br/>
+      <span>Beginner</span>
+    </td>
+  </tr>
+</table>
+
+  
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
