@@ -1,15 +1,17 @@
 # Hi, I'm Shriyansh Kr. Lohia
 
 **Full-Stack Developer (MERN + DevOps)**  
-Building performant, scalable web applications with clean architecture and production-ready code.
-
+- 2+ years of hands-on experience with the MERN Stack — building, optimizing, and scaling full-stack applications for performance and reliability.
+- I also have a keen interest in DevOps. Right now, I can deploy applications using basic, scalable methods.
+- Strong foundation in JavaScript, REST APIs, MongoDB schema design, and frontend architecture with React and NextJS.
+- Git, GitHub, and VCS best practices are second nature. I write clean, maintainable code that scales, and my last manager told me to commit every time I take a breath - ummmm Not, quite literally but yes a good practise.
 ---
 
 ## 🧱 Core Stack
 
-| JavaScript | React.js | Node.js | Express.js | MongoDB |
+| JavaScript | React.js | NextJS | Node.js | Express.js | MongoDB |
 |------------|----------|---------|------------|---------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> |
 
 ---
 
@@ -46,4 +48,4 @@ Building performant, scalable web applications with clean architecture and produ
 
 ---
 
-> I write clean code, build scalable systems, and move fast. No fluff, just delivery.
+> I write clean code, build scalable systems, and make beautiful UI.
